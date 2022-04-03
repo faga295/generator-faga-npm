@@ -1,0 +1,24 @@
+{
+  "name": "projectname",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/faga/xxx.git"
+  },
+  "author": "faga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faga/xxx/issues"
+  },
+  "homepage": "https://github.com/faga/xxx#readme",
+  "devDependencies": {
+  },
+  "files": [
+    "./bundle.js"
+  ],
+  "type": "module"
+}
