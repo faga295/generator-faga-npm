@@ -106,7 +106,7 @@ module.exports = class extends Generator {
   }
   renderTplFile(){
     let target = [
-      ['.gitignore','.gitignore'],
+      ['_gitignore','.gitignore'],
       'README.md',
     ]
     if(this.props.isTypescript){
